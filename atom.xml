@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Josewyx.github.io</id>
+    <title>若泽的生活手记</title>
+    <updated>2022-08-17T00:26:00.369Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Josewyx.github.io"/>
+    <link rel="self" href="https://Josewyx.github.io/atom.xml"/>
+    <subtitle>看看云朵，写写人间，暮色狂奔指南</subtitle>
+    <logo>https://Josewyx.github.io/images/avatar.png</logo>
+    <icon>https://Josewyx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 若泽的生活手记</rights>
+</feed>
